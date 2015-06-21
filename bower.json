@@ -1,0 +1,25 @@
+{
+  "name": "x-tag-hello-world",
+  "version": "0.0.1",
+  "homepage": "https://github.com/StatelessCat/x-tag-hello-world",
+  "authors": [
+    "Raphael Cazenave-Leveque <raphael.cazenave@gmail.com>"
+  ],
+  "description": "x-tag-hello-world",
+  "keywords": [
+    "x-tag",
+    "webcomponents",
+    "javascript"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "x-tag-core": "~1.1.8"
+  }
+}
